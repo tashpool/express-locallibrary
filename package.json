@@ -24,7 +24,7 @@
     "helmet": "^3.21.0",
     "http-errors": "~1.6.3",
     "moment": "^2.24.0",
-    "mongoose": "^5.6.11",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.1",
     "prettier": "^1.18.2",
     "pug": "^2.0.4"
